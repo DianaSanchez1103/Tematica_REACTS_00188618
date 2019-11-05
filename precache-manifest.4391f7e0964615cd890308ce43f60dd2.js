@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c3fa5f14c0afa2b4b2ffcede1f56f55d",
+    "revision": "65405de453da8aa048cfef01f61a5d74",
     "url": "/Tematica_REACTS_00188618/index.html"
   },
   {
-    "revision": "9ee6e4db93bd2677ac17",
+    "revision": "b7cf57e21d303bb3a070",
     "url": "/Tematica_REACTS_00188618/static/css/main.318cce55.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Tematica_REACTS_00188618/static/js/2.0f6883a2.chunk.js"
   },
   {
-    "revision": "9ee6e4db93bd2677ac17",
-    "url": "/Tematica_REACTS_00188618/static/js/main.b12e796b.chunk.js"
+    "revision": "b7cf57e21d303bb3a070",
+    "url": "/Tematica_REACTS_00188618/static/js/main.a4130e47.chunk.js"
   },
   {
     "revision": "6b251d5a4a8e464c730b",

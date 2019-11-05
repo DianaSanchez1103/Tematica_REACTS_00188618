@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Tematica_REACTS_00188618/precache-manifest.438eb6f3e12115f61179009a6aee0d87.js"
+  "/Tematica_REACTS_00188618/precache-manifest.4391f7e0964615cd890308ce43f60dd2.js"
 );
 
 self.addEventListener('message', (event) => {
