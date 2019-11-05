@@ -2,7 +2,7 @@
   "name": "labo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://DianaSanchez1103.github.io/Tematica_REACTS_00188618",
+  "homepage": "https://DianaSanchez1103.github.io/Tematica_REACTS_00188618/",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.11.0",
