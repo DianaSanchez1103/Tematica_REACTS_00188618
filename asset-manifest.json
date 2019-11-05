@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Tematica_REACTS_00188618/static/css/main.318cce55.chunk.css",
+    "main.js": "/Tematica_REACTS_00188618/static/js/main.b12e796b.chunk.js",
+    "main.js.map": "/Tematica_REACTS_00188618/static/js/main.b12e796b.chunk.js.map",
+    "runtime-main.js": "/Tematica_REACTS_00188618/static/js/runtime-main.c30d86b2.js",
+    "runtime-main.js.map": "/Tematica_REACTS_00188618/static/js/runtime-main.c30d86b2.js.map",
+    "static/js/2.0f6883a2.chunk.js": "/Tematica_REACTS_00188618/static/js/2.0f6883a2.chunk.js",
+    "static/js/2.0f6883a2.chunk.js.map": "/Tematica_REACTS_00188618/static/js/2.0f6883a2.chunk.js.map",
+    "index.html": "/Tematica_REACTS_00188618/index.html",
+    "precache-manifest.438eb6f3e12115f61179009a6aee0d87.js": "/Tematica_REACTS_00188618/precache-manifest.438eb6f3e12115f61179009a6aee0d87.js",
+    "service-worker.js": "/Tematica_REACTS_00188618/service-worker.js",
+    "static/css/main.318cce55.chunk.css.map": "/Tematica_REACTS_00188618/static/css/main.318cce55.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c30d86b2.js",
+    "static/js/2.0f6883a2.chunk.js",
+    "static/css/main.318cce55.chunk.css",
+    "static/js/main.b12e796b.chunk.js"
+  ]
+}
