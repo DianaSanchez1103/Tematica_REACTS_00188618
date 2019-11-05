@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Tematica_REACTS_00188618/static/css/main.318cce55.chunk.css",
-    "main.js": "/Tematica_REACTS_00188618/static/js/main.a4130e47.chunk.js",
-    "main.js.map": "/Tematica_REACTS_00188618/static/js/main.a4130e47.chunk.js.map",
-    "runtime-main.js": "/Tematica_REACTS_00188618/static/js/runtime-main.c30d86b2.js",
-    "runtime-main.js.map": "/Tematica_REACTS_00188618/static/js/runtime-main.c30d86b2.js.map",
-    "static/js/2.0f6883a2.chunk.js": "/Tematica_REACTS_00188618/static/js/2.0f6883a2.chunk.js",
-    "static/js/2.0f6883a2.chunk.js.map": "/Tematica_REACTS_00188618/static/js/2.0f6883a2.chunk.js.map",
-    "index.html": "/Tematica_REACTS_00188618/index.html",
-    "precache-manifest.4391f7e0964615cd890308ce43f60dd2.js": "/Tematica_REACTS_00188618/precache-manifest.4391f7e0964615cd890308ce43f60dd2.js",
-    "service-worker.js": "/Tematica_REACTS_00188618/service-worker.js",
-    "static/css/main.318cce55.chunk.css.map": "/Tematica_REACTS_00188618/static/css/main.318cce55.chunk.css.map"
+    "main.css": "/tematicaReact/static/css/main.318cce55.chunk.css",
+    "main.js": "/tematicaReact/static/js/main.a4130e47.chunk.js",
+    "main.js.map": "/tematicaReact/static/js/main.a4130e47.chunk.js.map",
+    "runtime-main.js": "/tematicaReact/static/js/runtime-main.6f8dcfdb.js",
+    "runtime-main.js.map": "/tematicaReact/static/js/runtime-main.6f8dcfdb.js.map",
+    "static/js/2.0f6883a2.chunk.js": "/tematicaReact/static/js/2.0f6883a2.chunk.js",
+    "static/js/2.0f6883a2.chunk.js.map": "/tematicaReact/static/js/2.0f6883a2.chunk.js.map",
+    "index.html": "/tematicaReact/index.html",
+    "precache-manifest.c0a1da5d6b75ff1250d8ae386211543c.js": "/tematicaReact/precache-manifest.c0a1da5d6b75ff1250d8ae386211543c.js",
+    "service-worker.js": "/tematicaReact/service-worker.js",
+    "static/css/main.318cce55.chunk.css.map": "/tematicaReact/static/css/main.318cce55.chunk.css.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.c30d86b2.js",
+    "static/js/runtime-main.6f8dcfdb.js",
     "static/js/2.0f6883a2.chunk.js",
     "static/css/main.318cce55.chunk.css",
     "static/js/main.a4130e47.chunk.js"
